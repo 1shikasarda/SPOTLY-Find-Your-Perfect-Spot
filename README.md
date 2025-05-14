@@ -1,12 +1,16 @@
-# Spotly - "Smart parking at your fingertips 🚗✨
+# Spotly-Smart parking at your fingertips 🚗✨
 
 ## 🌟 Overview
 This wireframe for a mobile parking application that allows users to find, book, and pay for parking spots on-the-go. The app includes:
 
 🔐 User authentication
+
 📍 Location-based parking search
+
 🚘 Real-time spot availability
+
 💳 Booking & payment management
+
 💬 Feedback collection
 
 ## ✨ Key Features
@@ -53,7 +57,11 @@ This wireframe for a mobile parking application that allows users to find, book,
 
 ## 🚀 Next Steps
 🎨 High-fidelity UI design
+
 🗃️ Database schema finalization
+
 ⚡ API development
+
 🔄 Payment processor integration
+
 🧪 User testing (location & booking flow)
