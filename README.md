@@ -1,4 +1,4 @@
-# Spotly-Find Your Perfect Spot 🚗
+# SPOTLY-Find Your Perfect Spot 🚗
 
 ## 🌟 Overview
 This wireframe for a mobile parking application that allows users to find, book, and pay for parking spots on-the-go. The app includes:
@@ -22,11 +22,13 @@ This wireframe for a mobile parking application that allows users to find, book,
 
 👤 Profile Display: Shows user photo and name after login.
 
+
 **2. 📍 Location Services**
 
 🌐 Requests permission to access user location for better experience.
 
 🔍 Uses GPS to find nearest parking lots.
+
 
 **3. 🔎 Parking Search & Selection**
    
@@ -36,6 +38,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 
 ⏳ Recently viewed locations for quick access.
 
+
 **4. 🅿️ Spot Availability**
 
 🟢 A: Available
@@ -43,6 +46,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 🟡 R: Reserved
 
 🗺️ Grid layout showing spot numbers and real-time status.
+
 
 **5. ⏳ Booking System**
 
@@ -52,11 +56,13 @@ This wireframe for a mobile parking application that allows users to find, book,
 
 💳 Multiple payment options (Netbanking, UPI, PayTM).
 
+
 **6. ✅ Booking Confirmation**
 
 🎉 Success notification after booking.
 
 ✉️ Ticket delivery via SMS and email.
+
 
 **7. 💬 Feedback System**
 
