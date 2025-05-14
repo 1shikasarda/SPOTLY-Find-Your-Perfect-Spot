@@ -14,7 +14,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 💬 Feedback collection
 
 ## ✨ Key Features
-#### **1. 🔐 User Authentication**
+### **1. 🔐 User Authentication**
 
 📝 Sign Up: New users can register with email, full name, mobile number, and password.
 
@@ -23,14 +23,14 @@ This wireframe for a mobile parking application that allows users to find, book,
 👤 Profile Display: Shows user photo and name after login.
 
 
-**2. 📍 Location Services**
+### **2. 📍 Location Services**
 
 🌐 Requests permission to access user location for better experience.
 
 🔍 Uses GPS to find nearest parking lots.
 
 
-**3. 🔎 Parking Search & Selection**
+### **3. 🔎 Parking Search & Selection**
    
 🔍 Search functionality for parking locations.
 
@@ -39,7 +39,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 ⏳ Recently viewed locations for quick access.
 
 
-**4. 🅿️ Spot Availability**
+### **4. 🅿️ Spot Availability**
 
 🟢 A: Available
 🔴 B: Booked
@@ -48,7 +48,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 🗺️ Grid layout showing spot numbers and real-time status.
 
 
-**5. ⏳ Booking System**
+### **5. ⏳ Booking System**
 
 ⏰ Time selection (arrival & departure).
 
@@ -57,14 +57,14 @@ This wireframe for a mobile parking application that allows users to find, book,
 💳 Multiple payment options (Netbanking, UPI, PayTM).
 
 
-**6. ✅ Booking Confirmation**
+### **6. ✅ Booking Confirmation**
 
 🎉 Success notification after booking.
 
 ✉️ Ticket delivery via SMS and email.
 
 
-**7. 💬 Feedback System**
+### **7. 💬 Feedback System**
 
 ⭐ Rating system (1-5 stars).
 
