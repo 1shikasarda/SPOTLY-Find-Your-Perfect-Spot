@@ -14,7 +14,7 @@ This wireframe for a mobile parking application that allows users to find, book,
 💬 Feedback collection
 
 ## ✨ Key Features
-### **1. 🔐 User Authentication**
+#### **1. 🔐 User Authentication**
 
 📝 Sign Up: New users can register with email, full name, mobile number, and password.
 
