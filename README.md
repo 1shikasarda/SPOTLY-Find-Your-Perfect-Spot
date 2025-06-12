@@ -93,3 +93,5 @@ This wireframe for a mobile parking application that allows users to find, book,
 🔄 Payment processor integration
 
 🧪 User testing (location & booking flow)
+
+Contributions and suggestions are welcomed!!!
