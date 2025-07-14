@@ -1,4 +1,4 @@
-# SPOTLY-Find Your Perfect Spot  🚗
+# SPOTLY-Find Your Perfect Spot 
 
 ## 🌟 Overview
 This wireframe for a mobile parking application that allows users to find, book, and pay for parking spots on-the-go. The app includes:
